@@ -36,8 +36,11 @@ Diego Taucare</a></h1>
 
 
 
-<!-- BLOG-POST-LIST:END -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoTaucare&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/DiegoTaucare">
+    <img src="https://gh-readme-profile.vercel.app/api?username=DiegoTaucare&theme=catppuccin-mocha" height="300px";">
+  </a>
+</p>
 ---
 
 **Última actualización:** 08/12/2024 
