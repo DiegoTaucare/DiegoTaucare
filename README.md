@@ -34,13 +34,7 @@ Diego Taucare</a></h1>
  </div>
 </p>
 
-### Publicaciones en Blogs
 
-<!-- BLOG-POST-LIST:START -->
-
-- [Prevención de fraudes financieros con IA](https://dev.to/diegotaucare)
-- [Cómo desarrollar un videojuego educativo en Unity](https://dev.to/diegotaucare)
-- [Análisis de datos con MySQL y Power BI](https://dev.to/diegotaucare)
 
 <!-- BLOG-POST-LIST:END -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoTaucare&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
