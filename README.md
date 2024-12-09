@@ -14,7 +14,6 @@ Diego Taucare</a></h1>
 
 - 💬 Pregúntame sobre **desarrollo web, bases de datos y Unity**.
 
-- 📫 Cómo contactarme: **[diegotaucasubso@gmail.com](mailto:diegotaucasubso@gmail.com)**
 
 - 📄 Conoce mi experiencia: <a href="https://www.linkedin.com/in/diego-taucare-subso-329091258/" target="blank">Perfil de LinkedIn</a>
 
