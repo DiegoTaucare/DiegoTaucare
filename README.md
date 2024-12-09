@@ -46,4 +46,5 @@ Diego Taucare</a></h1>
 
 ---
 
-**Última actualización:** 08/12/2024
+**Última actualización:** 08/12/2024 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoTaucare&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
